@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: c301ec4bd3aa2ae4682cc05ef9143d9b
+timeCreated: 1523537705
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: apple
+    100002: apple001
+    100004: apple002
+    100006: apple003
+    100008: apple004
+    100010: apple005
+    100012: apple006
+    100014: apple007
+    100016: apple008
+    100018: apple009
+    100020: Box001
+    100022: Box002
+    100024: Box003
+    100026: Box004
+    100028: Box005
+    100030: Box006
+    100032: Box007
+    100034: Box008
+    100036: Box009
+    100038: Box010
+    100040: Cylinder001
+    100042: Cylinder001 1
+    100044: Cylinder002
+    100046: Cylinder003
+    100048: Cylinder004
+    100050: Cylinder005
+    100052: Cylinder006
+    100054: Cylinder007
+    100056: Cylinder008
+    100058: Cylinder009
+    100060: Cylinder010
+    100062: //RootNode
+    100064: Hedra001
+    100066: Hedra002
+    100068: Hedra003
+    100070: Hedra004
+    100072: Hedra005
+    100074: Hedra006
+    100076: Hedra007
+    100078: Hedra008
+    100080: Hedra009
+    100082: Hedra010
+    400000: apple
+    400002: apple001
+    400004: apple002
+    400006: apple003
+    400008: apple004
+    400010: apple005
+    400012: apple006
+    400014: apple007
+    400016: apple008
+    400018: apple009
+    400020: Box001
+    400022: Box002
+    400024: Box003
+    400026: Box004
+    400028: Box005
+    400030: Box006
+    400032: Box007
+    400034: Box008
+    400036: Box009
+    400038: Box010
+    400040: Cylinder001
+    400042: Cylinder001 1
+    400044: Cylinder002
+    400046: Cylinder003
+    400048: Cylinder004
+    400050: Cylinder005
+    400052: Cylinder006
+    400054: Cylinder007
+    400056: Cylinder008
+    400058: Cylinder009
+    400060: Cylinder010
+    400062: //RootNode
+    400064: Hedra001
+    400066: Hedra002
+    400068: Hedra003
+    400070: Hedra004
+    400072: Hedra005
+    400074: Hedra006
+    400076: Hedra007
+    400078: Hedra008
+    400080: Hedra009
+    400082: Hedra010
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Box006
+    2300012: Box007
+    2300014: Box008
+    2300016: Box009
+    2300018: Box010
+    2300020: Cylinder001
+    2300022: Cylinder001 1
+    2300024: Cylinder002
+    2300026: Cylinder003
+    2300028: Cylinder004
+    2300030: Cylinder005
+    2300032: Cylinder006
+    2300034: Cylinder007
+    2300036: Cylinder008
+    2300038: Cylinder009
+    2300040: Cylinder010
+    2300042: Hedra001
+    2300044: Hedra002
+    2300046: Hedra003
+    2300048: Hedra004
+    2300050: Hedra005
+    2300052: Hedra006
+    2300054: Hedra007
+    2300056: Hedra008
+    2300058: Hedra009
+    2300060: Hedra010
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Box006
+    3300012: Box007
+    3300014: Box008
+    3300016: Box009
+    3300018: Box010
+    3300020: Cylinder001
+    3300022: Cylinder001 1
+    3300024: Cylinder002
+    3300026: Cylinder003
+    3300028: Cylinder004
+    3300030: Cylinder005
+    3300032: Cylinder006
+    3300034: Cylinder007
+    3300036: Cylinder008
+    3300038: Cylinder009
+    3300040: Cylinder010
+    3300042: Hedra001
+    3300044: Hedra002
+    3300046: Hedra003
+    3300048: Hedra004
+    3300050: Hedra005
+    3300052: Hedra006
+    3300054: Hedra007
+    3300056: Hedra008
+    3300058: Hedra009
+    3300060: Hedra010
+    4300000: Cylinder001
+    4300002: Hedra001
+    4300004: Cylinder001
+    4300006: Box001
+    4300008: Box002
+    4300010: Cylinder002
+    4300012: Hedra002
+    4300014: Box003
+    4300016: Cylinder003
+    4300018: Hedra003
+    4300020: Box004
+    4300022: Cylinder004
+    4300024: Hedra004
+    4300026: Box005
+    4300028: Cylinder005
+    4300030: Hedra005
+    4300032: Box006
+    4300034: Cylinder006
+    4300036: Hedra006
+    4300038: Box007
+    4300040: Cylinder007
+    4300042: Hedra007
+    4300044: Box008
+    4300046: Cylinder008
+    4300048: Hedra008
+    4300050: Box009
+    4300052: Cylinder009
+    4300054: Hedra009
+    4300056: Box010
+    4300058: Cylinder010
+    4300060: Hedra010
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.35
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

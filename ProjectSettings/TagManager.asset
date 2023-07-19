@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - STATIC
+  - PLATE
+  - COOKBAR
+  - BLENDER
+  - JAM
+  - MASSCUP
+  - MASSWAFFLE
+  - CUP
+  - MASSBREAD
+  - MASSTARTE
+  - MASSAPPLE
+  - SAND
+  - DWARF
+  - JUICE
+  - POJUICE
+  - POSAND
+  - POTARTE
+  - TARTE
+  - WAFFLE
+  - Dish2
+  - TUTORIAL
+  - PLAY
+  - Next1
+  - SAND1
+  - POTARTE3
+  - SAND2
+  - TARTE1
+  - POSAND2
+  - POAPPLE
+  - TARTEB
+  - JKNIFE
+  - TARTE3
+  - WAFFLE2
+  - POJUICE1
+  - JUICE1
+  - BREAD
+  - Juice_
+  - POJuice_
+  - TARGET1
+  - Dish3
+  - Dish1
+  - TARGET2
+  - Dish4
+  - LIKERANK
+  - TARGET4
+  - GAMEEND
+  - TARGET3
+  - OVEN
+  - REPLAY
+  - END
+  - DWARF1
+  - DWARF2
+  - DWARF3
+  - DWARF4
+  - APPLE
+  - BALL
+  - WitchPos
+  - WITCH
+  - Bottom
+  - Hand
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - cup
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
