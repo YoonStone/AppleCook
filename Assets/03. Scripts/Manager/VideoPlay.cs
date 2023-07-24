@@ -3,8 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class VideoPlay : MonoBehaviour {
+public class VideoPlay : MonoBehaviour 
+{
     public MovieTexture video;
+
     void Start()
     {
         GetComponent<RawImage>().texture = video as MovieTexture;

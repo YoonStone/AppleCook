@@ -31,7 +31,7 @@ public class GM_Start2 : MonoBehaviour
         {
             int rand = Random.Range(0, 7);
             
-            dwarf = (GameObject)Instantiate(dwarfPrefab[rand]);
+            dwarf = Instantiate(dwarfPrefab[rand]);
             dwarf.SetActive(false);
             StartCoroutine("DwarfDelay", dwarf);
         }

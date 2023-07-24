@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-public class WitchScript : MonoBehaviour {
+public class WitchScript : MonoBehaviour 
+{
     public ParticleSystem smoke;
     public float animTime;
 
