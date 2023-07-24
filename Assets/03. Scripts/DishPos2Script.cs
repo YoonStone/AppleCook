@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class DishPos2Script : MonoBehaviour
 {
-
     GameObject dwarf;
     AudioSource audioS;
 

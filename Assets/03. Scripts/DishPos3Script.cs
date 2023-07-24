@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DishPos3Script : MonoBehaviour {
-
+public class DishPos3Script : MonoBehaviour 
+{
     GameObject dwarf;
     AudioSource audioS;
 
