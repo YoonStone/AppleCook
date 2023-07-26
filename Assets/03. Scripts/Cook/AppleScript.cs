@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AppleScript : MonoBehaviour {
-
+public class AppleScript : MonoBehaviour
+ {
     GameObject ob;
 
     private void OnCollisionEnter(Collision coll)

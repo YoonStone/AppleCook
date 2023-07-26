@@ -24,13 +24,15 @@ public class OvenScript : MonoBehaviour {
     {
         switch (coll.gameObject.tag)
         {
+            // 요리 전 타르트가 들어오면 요리하기
             case "TARTE3":
                 if (!isTarte)
                 {
                     StartCoroutine("StartCook", coll.gameObject);
                     StartCoroutine("LightOn");
                     isTarte = true;
-                }
+                    isThere = true;
+                                }
                 break;
 
             case "POTARTE3":
@@ -39,33 +41,19 @@ public class OvenScript : MonoBehaviour {
                     StartCoroutine("StartPoCook", coll.gameObject);
                     StartCoroutine("LightOn");
                     isTarte = true;
+                    isThere = true;
                 }
                 break;
 
+            // 요리된 타르트가 들어오면 태우기
             case "TARTE":
             case "POTARTE":
                 StartCoroutine("StartBurn", coll.gameObject);
                 StartCoroutine("LightOff");
+                isStillThere = true;
                 break;
             default:
                 //Destroy(coll.gameObject, 1f); 
-                break;
-        }
-    }
-    
-    //닿아있는 중
-    private void OnCollisionStay(Collision coll)
-    {
-        switch (coll.gameObject.tag)
-        {
-            case "TARTE3":
-            case "POTARTE3":
-                isThere = true;
-                break;
-
-            case "TARTE":
-            case "POTARTE":
-                isStillThere = true;
                 break;
         }
     }

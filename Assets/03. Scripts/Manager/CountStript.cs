@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class CountStript : MonoBehaviour {
-
+public class CountStript : MonoBehaviour 
+{
     Text count;
     float time;
 

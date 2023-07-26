@@ -128,6 +128,7 @@ public class ViveHold_SScipt : MonoBehaviour {
         {
             switch (coll.tag)
             {
+                // 드래그 : 새로운 물체 생성
                 case "MASSBREAD":
                 case "MASSTARTE":
                 case "MASSWAFFLE":
@@ -136,6 +137,8 @@ public class ViveHold_SScipt : MonoBehaviour {
                     target = coll.gameObject;
                     isNoDragging = true;
                     break;
+
+                // 드래그 : 해당 물체 이동
                 case "CUP":
                 case "BREAD":
                 case "SAND":

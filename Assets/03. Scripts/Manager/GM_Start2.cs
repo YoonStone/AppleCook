@@ -24,7 +24,7 @@ public class GM_Start2 : MonoBehaviour
     }
 
 
-    // 난쟁이를 프리팹에 넣어놓는 작업
+    // 난쟁이를 랜덤으로 골라 생성하는 작업
     void CreateDwarf()
     {
         if (!isEnd)
@@ -49,19 +49,12 @@ public class GM_Start2 : MonoBehaviour
 
             //1:4의 비율로 마녀:난쟁이
             int rand = Random.Range(0, 5);
-
-            if (rand == 0)
-            {
-                CreateWitch();
-            }
-            else
-            {
-                CreateDwarf();
-            }
+            if (rand == 0) CreateWitch();
+            else CreateDwarf();
         }
     }
 
-    // 마녀 프리팹에 넣어놓는 작업
+    // 마녀를 생성하는 작업
     void CreateWitch()
     {
         if (!isEnd)
