@@ -1,8 +1,6 @@
-# AppleCook
+# AppleCook (애플쿡)
 
 ![애플쿡](https://github.com/YoonStone/AppleCook/assets/101027984/df88b1cf-3e58-468b-954a-f4ec099409d1)
-
-**• 제목** : AppleCook (애플쿡)
 
 **• 스토리** : 백설공주는 사실 난쟁이들에게 음식을 해주며 쫒겨나지 않기 위해 고군분투했다고 한다!
 
